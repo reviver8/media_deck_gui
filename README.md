@@ -1,9 +1,13 @@
 # media_deck_gui
-This repository contains the layout of my visual interface for logging my media consumpion. The various media I track consists of books, movies, and TV shows. The GUI will be displayed on a raspberry pi 4 with 4GB. For more information about this project, here it is!
+This repository contains the layout of my visual interface for logging my media consumption. The various media I track consists of books, movies, and TV shows. The GUI will be displayed on a raspberry pi 4 with 4GB. For more information about this project, here it is!
 
 
 ## Background Inspiration: 
-Since 2022, I have thorouhgly enjoyed logging the main forms of media I consume, including movies, books, TV shows, and musicals, I decided to create a Notion page for tracking this. Within the Notion page there are 4 databases, one for each media type. While this system works well, there is always room for improvement!
+Since 2022, I have thoroughly enjoyed logging the main forms of media I consume, including movies, books, TV shows, and musicals, I decided to create a Notion page for tracking this. Within the Notion page there are 4 databases, one for each media type. While this system works well, there is always room for improvement!
+<br><br>
+
+## How to Run this: 
+Clone the repo for this project and ensure that you are using **Python 3.11**, if you don't have it download it from the [Python Official Website](https://www.python.org/downloads/release/python-3110/). The GUI for this project runs on Guizero which right now works on **Python 3.11**, so you can change your Python Interpreter in your selected IDE to actually run this application. After choosing the appropriate Python version, click Run and everything should run properly in your instance of the project.
 <br><br>
 
 ## Media Deck Product User Interview: 
@@ -12,7 +16,7 @@ Since 2022, I have thorouhgly enjoyed logging the main forms of media I consume,
 * Who's going to use this?
     * Just me, but could serve as a build guide for others. 
 * How often is this going to be used?
-    * At least every week. Approxiamately 3 or 4 times a week.
+    * At least every week. Approximately 3 or 4 times a week.
 * Where will this platform be used? 
     * in a bed
     * while sitting on the floor 
